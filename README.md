@@ -19,6 +19,6 @@ My approach: Using MIN, MAX, AVG to aggreagte data and using ORDER BY to create 
  Applying CASE to categorise countries based on their life expectancy: Very high, high, average, below average, low. 
  Using AND/OR to select countries that meet a certain criteria. 
  
-Results and code can be found in the following link: 
+Results and code can be found in the following link to Khan Academy SQL course: 
 https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig-countries/6214395031928832
 
